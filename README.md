@@ -1,4 +1,5 @@
 # 📊 Dashboard de Vendas — Excel
+![Dashboard de Vendas](Dashboard.jpg)
 
 Dashboard interativo desenvolvido em Excel para análise de performance de vendas, com KPIs, alertas automáticos de risco e visualizações gráficas.
 
